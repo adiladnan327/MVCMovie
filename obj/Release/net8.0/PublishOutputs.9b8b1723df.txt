@@ -1,0 +1,7 @@
+C:\tools\MVCProject\MvcMovie\output\MvcMovie.exe
+C:\tools\MVCProject\MvcMovie\output\appsettings.Development.json
+C:\tools\MVCProject\MvcMovie\output\appsettings.json
+C:\tools\MVCProject\MvcMovie\output\MvcMovie.dll
+C:\tools\MVCProject\MvcMovie\output\MvcMovie.deps.json
+C:\tools\MVCProject\MvcMovie\output\MvcMovie.runtimeconfig.json
+C:\tools\MVCProject\MvcMovie\output\MvcMovie.pdb
